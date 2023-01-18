@@ -1,2 +1,2 @@
 test:
-    config-dev
+    config-dev version=1
